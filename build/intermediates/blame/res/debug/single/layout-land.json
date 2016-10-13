@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_article_list.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\XYZReader\\src\\main\\res\\layout-land\\activity_article_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_article_detail.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\XYZReader\\src\\main\\res\\layout-land\\fragment_article_detail.xml"
+    }
+]
