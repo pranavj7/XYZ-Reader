@@ -4,4 +4,6 @@
     <dimen name="detail_body_padding">8dp</dimen>
     <dimen name="detail_text">470dp</dimen>
     <dimen name="detail_width">377dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+
 </resources>
