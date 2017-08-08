@@ -10,7 +10,7 @@ Is the text supposed to be so wonky and unreadable? It is not accessible to thos
 The color scheme is really sad and I shouldn't feel sad.
 
 
-<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=400px; width="200px"></img>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=400px; width="300px"></img>
 
 #Rubric
 
