@@ -14,8 +14,8 @@ The color scheme is really sad and I shouldn't feel sad.
 <img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/two.png" height=400px; width="230px"></img>
 <br><br>
 <b>Landscape</b><br><br>
-<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/four.png" height=250px; width="460px"></img>
-<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/five.png" height=230px; width="400px"></img><br><br>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/four.png" height=250px; width="460px"></img><br>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/five.png" height=250px; width="460px"></img><br><br>
 #Rubric
 
 #Required Behavior:
