@@ -10,16 +10,7 @@ Is the text supposed to be so wonky and unreadable? It is not accessible to thos
 The color scheme is really sad and I shouldn't feel sad.
 
 
-![alt text](https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png)
-
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=500px; width="200px"></img>
 
 #Rubric
 
