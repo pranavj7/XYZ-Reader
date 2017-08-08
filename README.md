@@ -10,7 +10,7 @@ Is the text supposed to be so wonky and unreadable? It is not accessible to thos
 The color scheme is really sad and I shouldn't feel sad.
 
 
-![alt text](https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/one.png)
+![alt text](https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png)
 
 
 
