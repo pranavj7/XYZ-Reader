@@ -8,10 +8,10 @@ This app is starting to shape up but it feels a bit off in quite a few places.I 
 Is the text supposed to be so wonky and unreadable? It is not accessible to those of us without perfect vision.
 
 The color scheme is really sad and I shouldn't feel sad.
-
+<br>
 <b>Portrait</b><br><br>
-<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=400px; width="230px"></img>
 <img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/two.png" height=400px; width="230px"></img>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=400px; width="230px"></img>
 <br><br>
 <b>Landscape</b><br><br>
 <img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/four.png" height=250px; width="460px"></img><br><br>
