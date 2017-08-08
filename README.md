@@ -11,7 +11,10 @@ The color scheme is really sad and I shouldn't feel sad.
 
 
 <img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/one.png" height=400px; width="230px"></img>
-
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/two.png" height=400px; width="230px"></img>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/three.png" height=400px; width="230px"></img>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/four.png" height=400px; width="230px"></img>
+<img src="https://raw.githubusercontent.com/pranavj7Z/XYZ-Reader/master/five.png" height=400px; width="230px"></img>
 #Rubric
 
 #Required Behavior:
